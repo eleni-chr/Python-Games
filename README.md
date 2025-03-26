@@ -11,7 +11,7 @@ The Pokémon with the higher chosen stat wins the round.
 If both Pokémon have the same chosen stat, the round is considered a draw.
 
 ## hangman
-Simple hangman game in Python
+Simple hangman game in Python. Uses the associated file [largewords.txt](https://github.com/eleni-chr/Python-Games/blob/master/largewords.txt).
 
 ## minesweeper
 Minesweeper game in Windows command line.
